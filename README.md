@@ -1,1 +1,5 @@
-# Grupo_5_1Figaro
+ <!-- HEADINGS -->
+
+# FIGARO
+![Logo figaro](sap/webapp/static/img/logo.png)
+
